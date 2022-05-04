@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+body{
+    background-color: rgb(17, 92, 117);
+}
+
+.h1{
+    color: rgb(56, 56, 231);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#form{
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
